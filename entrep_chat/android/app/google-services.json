@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "29595106084",
+    "project_id": "entropchat",
+    "storage_bucket": "entropchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29595106084:android:e1b79b221d35da780fd1b1",
+        "android_client_info": {
+          "package_name": "com.example.entrep_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29595106084-n6omnv5ro98t52v42gijag3pafkoelpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVOVj8audQox2hWG5_cCvhOPQmh6XO6n0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29595106084-n6omnv5ro98t52v42gijag3pafkoelpc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
