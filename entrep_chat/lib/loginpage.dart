@@ -87,7 +87,7 @@ class _LogInPageState extends State<LogInPage> {
                 ),
 
                 //insertion de limage de login
-                Image.asset("image/login.png"),
+                Image.asset("images/login.png"),
 
                 //insertion dun chaps de text de email
                 TextFormField(

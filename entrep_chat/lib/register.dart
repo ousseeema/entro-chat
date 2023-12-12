@@ -101,7 +101,7 @@ class _RegisterPageState extends State<RegisterPage> {
                           ),
 
                           //insertion de limage de login
-                          Image.asset("image/register.png"),
+                          Image.asset("images/signup.png"),
 
                           //insertion de champs de text full name
                           TextFormField(
